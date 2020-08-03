@@ -1,0 +1,4 @@
+filterpy
+jupyter
+notebook
+sympy
